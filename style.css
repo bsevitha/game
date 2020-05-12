@@ -56,7 +56,9 @@ body{
 
 
 .puzz{
-         left:50%;
+         text-align: center;
+	position:center;
+	
 	margin-bottom:80px;
 	margin-top:40px;
 	font-size: 50px;
